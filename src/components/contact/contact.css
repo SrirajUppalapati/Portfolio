@@ -52,7 +52,7 @@
 .contact__button {
   /* Originally: var(--text-color);
      Inverted: using var(--container-color) which should be light now */
-  color: var(--container-color);
+  color: var(--font-color);
   font-size: var(--small-font-size);
   display: inline-flex;
   align-items: center;
