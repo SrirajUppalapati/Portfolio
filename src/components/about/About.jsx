@@ -30,7 +30,7 @@ const About = () => {
             </p>
 
             <a
-              href="https://drive.google.com/file/d/1CC3WaFgaUdSnYmu3ZmxSTiHBzvJuW2dr/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1WFqtk359DrBHyEw87_qlE2hHzmfmwAAS/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="button button--flex"
