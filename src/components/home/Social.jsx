@@ -2,7 +2,7 @@ const Social = () => {
   return (
     <div className="home__social">
       <a
-        href="https://www.linkedin.com/in/sriraj-uppalapati-703032166/"
+        href="https://www.linkedin.com/in/sriraj3032166/"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"

@@ -47,9 +47,9 @@ const Contact = () => {
 
             <div className="contact__card">
               <h3 className="contact__card-title">Phone</h3>
-              <span className="contact__card-data">(571)789-6366</span>
+              <span className="contact__card-data">(571)377-8128</span>
 
-              <a href="tel:5717896366" className="contact__button">
+              <a href="tel:5713778128" className="contact__button">
                 Talk to me{" "}
               </a>
             </div>
@@ -59,7 +59,7 @@ const Contact = () => {
               <span className="contact__card-data">Sriraj Uppalapati</span>
 
               <a
-                href="https://www.linkedin.com/in/sriraj-uppalapati-703032166/"
+                href="https://www.linkedin.com/in/sriraj3032166/"
                 className="contact__button"
               >
                 Connect{" "}
