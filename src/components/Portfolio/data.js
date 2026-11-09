@@ -26,13 +26,4 @@ export const projectsData = [
       "a hotel management system that makes it easy for hotels to run their day-to-day operations. It helps with room bookings, keeping track of customer details, managing staff, and viewing important reports—all in a secure and user friendly way.",
     tools: "React, Spring, MySQL, AWS S3",
   },
-  {
-    id: 4,
-    title: "Movie Raitng App",
-    github: "https://github.com/SrirajUppalapati/Movie-Rating",
-    projectLink: "https://movierating-three.vercel.app/",
-    description:
-      "A simple tool that lets users search for movies using IMDb data, add movies to a personal list, and rate them based on personal preferences. It also shows basic statistics about the ratings. This app is perfect for movie lovers who want an easy way to track and share their thoughts on films.",
-    tools: "React, IMDb API",
-  },
 ];
